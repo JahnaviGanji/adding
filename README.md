@@ -24,3 +24,31 @@ ___ordered lists___
 # emojis
 
 :smiley:
+
+# tables
+
+fruits | price
+
+------ | ------
+
+apples   20
+
+banana   5
+
+# syntax highlighter
+
+```python
+
+if(n%2==0):
+
+print(even)
+
+```
+
+# strike through
+
+~~strike~~
+
+# blockquotes
+
+>block this line
