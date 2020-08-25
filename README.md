@@ -28,12 +28,9 @@ ___ordered lists___
 # tables
 
 fruits | price
-
 ------ | ------
-
-apples   20
-
-banana   5
+apples | 20
+banana | 5
 
 # syntax highlighter
 
@@ -52,3 +49,5 @@ print(even)
 # blockquotes
 
 >block this line
+
+>it is empty
